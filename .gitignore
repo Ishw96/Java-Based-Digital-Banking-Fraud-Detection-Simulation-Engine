@@ -1,0 +1,21 @@
+# Environment files
+.env
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# Java / Eclipse
+bin/
+*.class
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
